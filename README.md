@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DESAFIO QA – Beedoo 2026
 
 Autor: Rodrigo Garcia da Silva
@@ -183,3 +184,7 @@ A aplicação apresenta funcionamento básico adequado para o fluxo principal de
 Entretanto, foram identificadas diversas falhas relacionadas principalmente à validação de dados e consistência das informações exibidas.
 
 Recomenda-se a implementação de validações adicionais para garantir maior confiabilidade e integridade das informações cadastradas no sistema.
+=======
+# DESAFIO-QA-BEEDOO-2026
+Desafio técnico para vaga de Analista de Qualidade de Software Júnior – análise da aplicação, cenários de teste, execução e registro de bugs.
+>>>>>>> da8ed8112db6a88fe64862647c6f84d0fa256a15
